@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-24">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="packages"/>
+	<classpathentry kind="src" path="CollectionAndCollections"/>
+	<classpathentry kind="src" path="innerClass"/>
+	<classpathentry kind="src" path="dataType"/>
+	<classpathentry kind="src" path="threads"/>
+	<classpathentry kind="src" path="hashCode"/>
+	<classpathentry kind="src" path="Exception_ExceptionHandling"/>
+	<classpathentry kind="src" path="Interface_and_Abstract_class"/>
+	<classpathentry kind="src" path="assert"/>
+	<classpathentry kind="src" path="genericClass"/>
+	<classpathentry kind="src" path="polymorphism"/>
+	<classpathentry kind="src" path="enumClass"/>
+	<classpathentry kind="src" path="stringClass"/>
+	<classpathentry kind="src" path="finalKeyword"/>
+	<classpathentry kind="src" path="mainMethod"/>
+	<classpathentry kind="src" path="garbageCollAndFinalizeMethod"/>
+	<classpathentry kind="src" path="annotation"/>
+	<classpathentry kind="src" path="AccessSpedifier"/>
+	<classpathentry kind="src" path="FileHandlingWithExcp_Handle"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
