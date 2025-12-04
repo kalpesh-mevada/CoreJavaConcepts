@@ -13,7 +13,7 @@ package testingcorejava;
 -  To request a class to generate object size use new key followed by class name with paranthesis : new ClassObject()
 
 "Object is instance of class"
--  Everytime an object is created only non-static member gets loaded into the object or non-static member goto the object.
+-  Everytime an object is created only non-static member gets loaded into the object or goto the ob.
 -  To access the object we store it's memory address in the reference variable.
 -  Syntax: ClassName ReferenceVariable = new ClassName();
 -  Example: ClassObject co = new ClassObject();
