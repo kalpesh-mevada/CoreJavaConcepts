@@ -22,7 +22,7 @@ package testingcorejava;
 public class ClassObject {
 
     int i = 10; // non-static variable - it can be accessible if object created in memory
-    static int j = 20; // static variable - static member created in memory within class and it is refering to class
+    static int j = 20; // static variable - static member created in memory within class and its refer to class
     int k = 40;
     
     public static void main(String[] args) {
@@ -34,10 +34,10 @@ public class ClassObject {
         System.out.println(new ClassObject().j);
         System.out.println(co.j);
         
-        
+        // Static member is refer to class and it's loaded within class
         System.out.println(ClassObject.j);
         
-        // Memomory Addres of RefenceVaraible / Object
+        // Memory Address of RefenceVaraible / Object
         System.out.println("Memory Adress of ReferenceVarible: "+co);
         //Memory address of refernce varible is in ClassName@HexadecimalCode
     }
