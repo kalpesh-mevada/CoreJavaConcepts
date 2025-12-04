@@ -27,6 +27,7 @@ public class ClassObject {
     
     public static void main(String[] args) {
         // TODO code application logic here
+    	// Non-static member can only be accessible by object
         ClassObject co = new ClassObject();
         System.out.println(co.i);
         System.out.println(co.k);
